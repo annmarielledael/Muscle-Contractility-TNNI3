@@ -1,0 +1,6 @@
+Gene symbol: TNNI3
+NCBI Gene ID: 7137
+Official name: troponin I3, cardiac type
+Chromosome: 19
+Normal role in muscle: TNNI3 encodes cardiac troponin I, an inhibitory subunit of the cardiac troponin complex that helps regulate heart muscle contraction and relaxation in response to calcium.
+Source: https://www.ncbi.nlm.nih.gov/gene/

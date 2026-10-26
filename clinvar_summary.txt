@@ -1,0 +1,71 @@
+CLINVAR VARIANT SUMMARY
+=======================
+
+Gene: TNNI3
+Transcript: NM_000363.5
+DNA change: c.575G>A
+Protein change: p.Arg192His (p.R192H)
+Protein accession: NP_000354.4
+Variant type: Missense
+ClinVar Variation ID: 12424
+ClinVar accession: VCV000012424.31
+dbSNP: rs104894729
+Inheritance reported by expert panel: Autosomal dominant
+
+OVERALL AND EXPERT-PANEL INTERPRETATION
+Clinical significance: Pathogenic
+Condition: Hypertrophic cardiomyopathy
+Expert panel: ClinGen Cardiomyopathy Variant Curation Expert Panel
+Review status: 3 of 4 stars
+Last evaluated: November 13, 2025
+First submitted to ClinVar: April 4, 2013
+Last submission shown: September 22, 2026
+
+CONDITION-LEVEL SUBMISSIONS
+Familial restrictive cardiomyopathy 1: Pathogenic; 3 submissions;
+  2 stars; last evaluated February 14, 2023.
+Hypertrophic cardiomyopathy and restrictive cardiomyopathy:
+  Pathogenic; 1 submission; 1 star; last evaluated May 2, 2019.
+Condition not provided: Pathogenic; 4 submissions; 2 stars;
+  last evaluated June 12, 2025.
+Cardiovascular phenotype: Pathogenic; 1 submission; 1 star;
+  last evaluated December 18, 2017.
+Hypertrophic cardiomyopathy: Pathogenic; 2 submissions;
+  3 stars; last evaluated November 13, 2025.
+Restrictive cardiomyopathy: Pathogenic; 1 submission; 1 star;
+  last evaluated January 3, 2018.
+Sudden infant death syndrome: Pathogenic; 1 submission; 1 star;
+  last evaluated August 8, 2022.
+Dilated cardiomyopathy 2A: Pathogenic; 1 submission; 1 star;
+  evaluation date not provided in the supplied notes.
+TNNI3-related disorder: Pathogenic; 1 submission; 1 star;
+  last evaluated December 8, 2023.
+
+EXPERT-PANEL EVIDENCE SUMMARY
+The supplied summary reports clinical observations in affected
+individuals, de novo occurrence, rarity in population databases,
+functional studies, regional evidence, and computational predictions.
+Reported ACMG/AMP criteria: PS4_Supporting, PM2_Supporting,
+PS2, PM1, PS3_Moderate, and PP3.
+Functional research discussed changes in calcium sensitivity,
+thin-filament regulation, and cardiac muscle relaxation.
+
+SELECTED PUBLICATIONS REPORTED IN THE SUPPLIED SUMMARY
+Mogensen J et al. J Clin Invest. 2003. PMID: 12531876.
+Gomes AV et al. J Biol Chem. 2005. PMID: 15961398.
+Kobayashi T et al. J Biol Chem. 2006. PMID: 16531415.
+Du J et al. Arch Biochem Biophys. 2006. PMID: 17027633.
+Davis J et al. Circ Res. 2007. PMID: 17463320.
+Fujino M et al. J Cardiol Cases. 2018. PMID: 30279906.
+
+LIMITATIONS
+Condition-specific submissions differ in review status and evidence.
+Not every listed publication necessarily studies this exact variant;
+some discuss related variants or troponin biology more broadly.
+The supplied notes report little evidence for haploinsufficiency
+pathogenicity and no evidence available for triplosensitivity.
+
+Source: https://www.ncbi.nlm.nih.gov/clinvar/variation/12424/
+Access date: October 27, 2026
+Note: Summary transcribed from the ClinVar information supplied
+for this assignment; verify details against the live record.
